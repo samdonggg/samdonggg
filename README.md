@@ -45,16 +45,15 @@
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=samdong)](https://solved.ac/samdong/)
+<!--
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=samdong&theme=warm)
+-->
 
 <br>
 <br>
 <br>
 
-<div align='center'
-  >
-
-![Hits](https://hit-s.kro.kr/api/count/badge?url=https://github.com/ealswjd&color=50dc55&r=v1)
+<div align='center'>
 
 </div>
 
